@@ -6,6 +6,7 @@ Canonical rules for code that touches `packages/core`, `packages/viewer`, `packa
 
 | Page | Covers |
 |---|---|
+| [diagram](diagram.md) | Visual maps — layer dependencies, data-flow frame loop, node-type lifecycle |
 | [layers](layers.md) | Three.js layer constants, ownership, and rendering separation |
 | [systems](systems.md) | Core and viewer systems architecture |
 | [renderers](renderers.md) | Node renderer pattern in `packages/viewer` |
